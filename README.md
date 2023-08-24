@@ -42,13 +42,12 @@
 
 
 
- --> <br>
---><br>
-@WhitehatSecurityBot --> Free Resources related to OSINT & Cyber Security.<br>
-@surftg_bot --> Send notifications when the search word appears in Telegram groups.<br>
-@SherlockProject_bot --> Finds accounts with a similar username across 300+ platforms.<br>
-@deepl_translator_bot  --> translator.
-@MalScanBot --> Malware analysis toolkit; scan files, URLs.<br>
-@downbot --> Monitor any website and get notified if it becomes down (You can use this in case you want to be notified once Google takes down a phishing website you've notified).<br>
-@Dorks_bot --> Generate Google dorks based on Exploit DB list of dorks.<br> </p>
+
+<a href="https://web.telegram.org/k/#@WhitehatSecurityBot">@WhitehatSecurityBot</a> --> Free Resources related to OSINT & Cyber Security.<br>
+<a href="https://web.telegram.org/k/#@surftg_bot">@surftg_bot</a> --> Send notifications when the search word appears in Telegram groups.<br>
+<a href="https://web.telegram.org/k/#@SherlockProject_bot">@SherlockProject_bot</a> --> Finds accounts with a similar username across 300+ platforms.<br>
+<a href="https://web.telegram.org/k/#@deepl_translator_bot">@deepl_translator_bot</a>  --> translator.
+<a href="https://web.telegram.org/k/#@MalScanBot">@MalScanBot</a> --> Malware analysis toolkit; scan files, URLs.<br>
+<a href="https://web.telegram.org/k/#@downbot">@downbot</a> --> Monitor any website and get notified if it becomes down (You can use this in case you want to be notified once Google takes down a phishing website you've notified).<br>
+<a href="https://web.telegram.org/k/#@Dorks_bot">@Dorks_bot</a> --> Generate Google dorks based on Exploit DB list of dorks.<br> </p>
 </body>
