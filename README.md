@@ -1,7 +1,10 @@
 <h1> Telegram Osint Bots </h1>
 <table>
   <td><a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a></td>
-
+  <td><a href="https://web.telegram.org/k/#@tgdb_bot">@TelegramDB Search Bot</a></td>
+  <td><a href="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a> </td>
+  <td><a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a> </td>
+  <td><a href="https://web.telegram.org/k/#@CALLNAMOBOT">@BotoDetective</a></td>
 </table>
 <p> 
 There are countless telegram bots to perform OSINT, but here are the ones that I find most useful and you can use to resolve alerts and investigations.
