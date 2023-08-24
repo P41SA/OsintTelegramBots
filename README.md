@@ -8,17 +8,14 @@
         <td><a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a></td>
         <td>This bot is going to check if an URL has been reported as a phishing site.</td>
     </tr>
-    
     <tr>
         <td><a href="https://web.telegram.org/k/#@tgdb_bot">@TelegramDB Search Bot</a></td>
         <td>Este bot te permite encontrar canales y grupos públicos, y ver en qué chats públicos está o ha estado un usuario.</td>
     </tr>
-    
     <tr>
         <td><a href="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a></td>
         <td>Busca en diferentes plataformas números de teléfono, username, email addresses etc.</td>
     </tr>
-    
     <tr>
         <td><a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a></td>
         <td>buscador dentro de telegram.</td>
