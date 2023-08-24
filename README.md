@@ -1,6 +1,8 @@
 <h1> Telegram Osint Bots </h1>
 <table>
   <td><a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a></td>
+
+</table>
 <p> 
 There are countless telegram bots to perform OSINT, but here are the ones that I find most useful and you can use to resolve alerts and investigations.
 <br>
