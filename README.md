@@ -1,6 +1,9 @@
 <h1> Telegram Osint Bots </h1>
 <table>
-  <td><a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a></td>
+  <tr>
+    <td><a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a></td>
+    <td>This bot is going to check if an URL has been reported as a phishing site.</td>
+  </tr>
   <td><a href="https://web.telegram.org/k/#@tgdb_bot">@TelegramDB Search Bot</a></td>
   <td><a href="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a> </td>
   <td><a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a> </td>
