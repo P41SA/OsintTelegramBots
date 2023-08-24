@@ -1,5 +1,27 @@
 <h1> Telegram Osint Bots </h1>
+<table class="default">
 
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Celda 4</td>
+
+    <td>Celda 5</td>
+
+    <td>Celda 6</td>
+
+  </tr>
+
+</table>
 <p> 
 There are countless telegram bots to perform OSINT, but here are the ones that I find most useful and you can use to resolve alerts and investigations.
 <br>
