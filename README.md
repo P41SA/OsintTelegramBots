@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@tgdb_bot">@TelegramDB Search Bot</a></td>
-        <td>Este bot te permite encontrar canales y grupos públicos, y ver en qué chats públicos está o ha estado un usuario.</td>
+        <td>This bot allows you to find public channels and groups, and see what public chats a user is or has been in.</td>
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a></td>
