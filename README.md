@@ -23,14 +23,14 @@
         <td><a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a></td>
         <td>buscador dentro de telegram.</td>
     </tr>
-<tr>
-    <td><a href="https://web.telegram.org/k/#@CALLNAMOBOT">@BotoDetective</a> </td>
-    <td>te peermite hacer busquedas por usuario, telefono y nombre.</td>
-</tr>
-<tr>
-    <td><a href="https://web.telegram.org/k/#@addprivategrougp_bot">@addprivategroup_bot </td>
-    <td>Get access to TG private groups.</td>
-</tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@CALLNAMOBOT">@BotoDetective</a> </td>
+        <td>te peermite hacer busquedas por usuario, telefono y nombre.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@addprivategrougp_bot">@addprivategroup_bot </td>
+        <td>Get access to TG private groups.</td>
+    </tr>
 </table>
 
 <br>
