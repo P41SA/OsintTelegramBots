@@ -28,15 +28,22 @@
         <td><a href="https://web.telegram.org/k/#@addprivategrougp_bot">@addprivategroup_bot </td>
         <td>Get access to TG private groups.</td>
     </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@IP_ScannerBot">@IP_ScannerBot</a></td>
+        <td>Whois, DNS, Reverse DNS, IP location, traceroute and port scan.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@watch_bot">@watch_bot </a></td>
+        <td>Monitor websites for changes.</td>
+    </tr>
 </table>
 
 <br>
 
 
---> <br>
-</a> --> <br>
-<a href="https://web.telegram.org/k/#@IP_ScannerBot">@IP_ScannerBot</a> --> Whois, DNS, Reverse DNS, IP location, traceroute and port scan.<br>
-<a href="https://web.telegram.org/k/#@watch_bot">@watch_bot </a>--> Monitor websites for changes.<br>
+
+ --> <br>
+--><br>
 @WhitehatSecurityBot --> Free Resources related to OSINT & Cyber Security.<br>
 @surftg_bot --> Send notifications when the search word appears in Telegram groups.<br>
 @SherlockProject_bot --> Finds accounts with a similar username across 300+ platforms.<br>
