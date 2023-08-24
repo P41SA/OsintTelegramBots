@@ -5,10 +5,10 @@ There are countless telegram bots to perform OSINT, but here are the ones that I
 <br>
 <br>
 <a href="https://web.telegram.org/k/#@isPhishBot">@isPhishBot</a> --> This bot is going to check if an URL has been reported as a phishing site.<br>
-@TelegramDB Search Bot --> Este bot te permite encontrar canales y grupos públicos, y ver en qué chats públicos está o ha estado un usuario.<br>
-@Universal Search Bot --> Busca en diferentes plataformas números de teléfono, username, email addresses etc.<br>
-@Telegago CSE --> buscador dentro de telegram.<br>
-@BotoDetective --> te peermite hacer busquedas por usuario, telefono y nombre.<br>
+<a href="https://web.telegram.org/k/#@tgdb_bot">@TelegramDB Search Bot</a> --> Este bot te permite encontrar canales y grupos públicos, y ver en qué chats públicos está o ha estado un usuario.<br>
+<a hrfet="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a> --> Busca en diferentes plataformas números de teléfono, username, email addresses etc.<br>
+<a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a> --> buscador dentro de telegram.<br>
+<a href="https://web.telegram.org/k/#@CALLNAMOBOT">@BotoDetective</a> --> te peermite hacer busquedas por usuario, telefono y nombre.<br>
 @addprivategroup_bot --> Get access to TG private groups.<br>
 @IP_ScannerBot --> Whois, DNS, Reverse DNS, IP location, traceroute and port scan.<br>
 @watch_bot --> Monitor websites for changes.<br>
