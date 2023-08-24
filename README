@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title><h1> Telegram Osint Bots </h1></title>
-</head>
-<body>
+<h1> Telegram Osint Bots </h1>
+
 <p> 
 
 @isPhishBot--> This bot is going to check if an URL has been reported as a phishing site.<br>
@@ -36,7 +32,3 @@
 
 @Dorks_bot --> Generate Google dorks based on Exploit DB list of dorks.<br> </p>
 </body>
-</html>
-
-
-<p>Duran
