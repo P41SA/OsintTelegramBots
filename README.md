@@ -36,18 +36,33 @@
         <td><a href="https://web.telegram.org/k/#@watch_bot">@watch_bot </a></td>
         <td>Monitor websites for changes.</td>
     </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@WhitehatSecurityBot">@WhitehatSecurityBot</a> </td>
+        <td>Free Resources related to OSINT & Cyber Security.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@surftg_bot">@surftg_bot</a></td>
+        <td>Send notifications when the search word appears in Telegram groups.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@SherlockProject_bot">@SherlockProject_bot</a></td>
+        <td>Finds accounts with a similar username across 300+ platforms.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@deepl_translator_bot">@deepl_translator_bot</a></td>
+        <td>Translator</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@MalScanBot">@MalScanBot</a></td>
+        <td>Malware analysis toolkit; scan files, URLs.</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@downbot">@downbot</a> </td>
+        <td>Monitor any website and get notified if it becomes down (You can use this in case you want to be notified once Google takes down a phishing website you've notified).</td>
+    </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@Dorks_bot">@Dorks_bot</a> </td>
+        <td>Generate Google dorks based on Exploit DB list of dorks.</td>
+    </tr>
 </table>
 
-<br>
-
-
-
-
-<a href="https://web.telegram.org/k/#@WhitehatSecurityBot">@WhitehatSecurityBot</a> --> Free Resources related to OSINT & Cyber Security.<br>
-<a href="https://web.telegram.org/k/#@surftg_bot">@surftg_bot</a> --> Send notifications when the search word appears in Telegram groups.<br>
-<a href="https://web.telegram.org/k/#@SherlockProject_bot">@SherlockProject_bot</a> --> Finds accounts with a similar username across 300+ platforms.<br>
-<a href="https://web.telegram.org/k/#@deepl_translator_bot">@deepl_translator_bot</a>  --> translator.
-<a href="https://web.telegram.org/k/#@MalScanBot">@MalScanBot</a> --> Malware analysis toolkit; scan files, URLs.<br>
-<a href="https://web.telegram.org/k/#@downbot">@downbot</a> --> Monitor any website and get notified if it becomes down (You can use this in case you want to be notified once Google takes down a phishing website you've notified).<br>
-<a href="https://web.telegram.org/k/#@Dorks_bot">@Dorks_bot</a> --> Generate Google dorks based on Exploit DB list of dorks.<br> </p>
-</body>
