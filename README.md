@@ -1,4 +1,4 @@
-<h1> Telegram Osint Bots </h1>
+<h1> Osint Telegram Bots </h1>
 <img src="https://robokassa.com/upload/medialibrary/12e/12ec7d81223bf2b07bf44e4e36333677.jpg" />
     <p> 
         There are countless telegram bots to perform OSINT, but here are the ones that I find most useful and you can use to resolve alerts and investigations.
