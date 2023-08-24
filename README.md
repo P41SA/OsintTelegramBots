@@ -14,15 +14,15 @@
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@Universal_Search_Bot">@Universal Search Bot</a></td>
-        <td>Busca en diferentes plataformas números de teléfono, username, email addresses etc.</td>
+        <td>Searches in different platforms phone numbers, username, email addresses etc.</td>
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@TelegagoBot">@Telegago CSE</a></td>
-        <td>buscador dentro de telegram.</td>
+        <td>Telegram Search Engine.</td>
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@CALLNAMOBOT">@BotoDetective</a> </td>
-        <td>te peermite hacer busquedas por usuario, telefono y nombre.</td>
+        <td>Search Engine by user, phone number and name.</td>
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@addprivategrougp_bot">@addprivategroup_bot </td>
@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@deepl_translator_bot">@deepl_translator_bot</a></td>
-        <td>Translator</td>
+        <td>Translator.</td>
     </tr>
     <tr>
         <td><a href="https://web.telegram.org/k/#@MalScanBot">@MalScanBot</a></td>
